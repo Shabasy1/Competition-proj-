@@ -1,0 +1,422 @@
+body{
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+   
+}
+.heade{
+    position: absolute;
+    
+  
+}
+.eq{
+    position: absolute;
+    left: 82%;
+    top: 4%;
+    z-index: -2;
+}
+.w{
+    position: relative;
+    right: 14.4%;
+    bottom: -42px;
+    border: none;
+    
+}
+.w a button{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+.ccc a{
+    cursor: pointer;
+}
+.first{
+    display: flex;
+    
+}
+
+.wave{
+    position: relative;
+    bottom: 10.5em;
+    right: 25rem;
+}
+.q{
+    width: 2em;
+    display: grid;
+    grid-template-columns: repeat(4,5em);
+    margin: 2rem;
+    position: relative;
+    right: 85rem;
+    
+
+}
+.q a{
+    text-decoration: none; color: blueviolet;
+    cursor: pointer;
+}
+.second{
+    display: flex;
+}
+.z{
+    position: absolute;
+    display: grid;
+    grid-template-rows: repeat(3,0em);
+    left: 50%;
+}
+.aa{
+    position: absolute;
+    z-index: 1;
+    left: 16rem;
+    top: -3rem;
+}
+.cc{
+    position:absolute;
+    z-index: 2;
+    top: 25rem;
+    left: 12.5rem;
+}
+.bb{
+    position: absolute;
+    z-index: -5;
+    left: 0em;
+    top: -6rem;
+    
+    
+}
+.tds{
+    position: absolute;
+    z-index: -5;
+    left: 0em;
+    top: -6rem;
+}
+.x{
+    font-size: 2.5em;
+    position: relative;
+    left: 12rem;
+    top: 6rem;
+}
+.vv{
+    display: flex;
+}
+.third{
+    display: flex;
+    position: relative;
+    top: 32rem;
+    left: 24rem;
+    width: 800px;
+}
+.tt{
+    display: grid;
+    justify-content: center;
+    width: 20rem;
+    grid-template-rows: repeat(4,1.5rem);
+    position: relative;
+    top: 11.5rem;
+    left: 15%;
+    
+    
+    
+}
+.ttt{
+    display: grid;
+    justify-content: center;
+    position: relative;
+    top: 5em;
+}
+.tt h4{
+    margin-top: 12rem;
+    text-align: center;
+}
+.tt p{
+    margin-top: 12.5rem;
+    text-align: center;
+}
+.tt img{
+    text-align: center;
+    position: relative;
+    left: 22px;
+}
+.forth{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 45em;
+}
+.frr img{
+    position: absolute;
+    
+    
+
+}
+.frr{
+    width: 24em;
+
+}
+.zz{
+    text-align: center;
+    
+}
+.frr h1{
+    font-size: 40px;
+    position: relative;
+    top: 4rem;
+    right: 0.5rem;
+    color: white;
+}
+.frr p{
+    position: relative;
+    top: 6rem;
+    right: 4.5rem;
+    color: white;
+}
+.fr{
+    position: relative;
+    right: 10rem;
+}
+.ff{
+    position: absolute;
+    left: 12rem;
+    top: -40px;
+    z-index: -2;
+}
+.fifth{
+    display: flex;
+    position: relative;
+    top: 65rem;
+    left: 14%;
+    width: 1600px;
+    
+}
+.az{
+    width: 600px;
+    
+
+    
+}
+.azz{
+    position: relative;
+    right: 10rem;
+    bottom: 6rem;
+    
+    
+    
+}
+.rtt{
+    position: relative;
+    left: 15rem;
+    bottom: 2rem;
+    font-size: 20px;
+}
+.opp{
+    position: absolute;
+    right: -9rem;
+    top: 145rem;
+    z-index: -2;
+    clip-path:inset(00px 144px 310px 0px)
+}
+.op{
+    position: relative;
+    top: 53.1rem;
+    left: 2rem;
+}
+.lo{
+    position: relative;
+    top: 90rem;
+    display: grid;
+    grid-template-columns: repeat(1,100px);
+    right: 22rem;       
+    
+}
+.rr{
+    text-align: center;
+}
+footer{
+    display: flex;
+}
+.rft{
+    position: relative;
+    top: 75rem;
+    left: 15.5rem;
+    margin: 50px;
+    background-color: white;
+    height: 3.2rem;
+    width: 5rem;
+    padding: 1rem;
+    padding-right: 6rem;
+    border-radius: 15px;
+}
+.eg{
+    position: absolute;
+    color: black;
+    top: 180.8rem;
+    display: flex;
+    text-align: center;
+    left: 23rem;
+    z-index: 5;
+    gap: 12rem;
+    font-size: 12px;
+}
+.ty{
+    
+    position: relative;
+    top: 84rem;
+    margin: 10px;
+    left: -13.5rem;
+}
+.lo a{
+    text-decoration: none;
+    color: white;
+}
+span{
+    color: blueviolet;
+    margin-left: 0.7rem;
+    margin-right: 0.7rem;
+}
+.fr{
+    text-align: center;
+}
+@media only screen and (max-width: 576px){
+    nav{
+        display: none;
+
+    }
+    .x h1{
+        width: clamp(2ch, 50%, 30ch);
+    }
+    .sav{
+        position: relative;
+        top: 12rem;
+        right: 9.8rem;
+        color: black;
+    }
+    
+    .second{
+        position: relative;
+        top: 25rem;
+        left: -7rem;
+    }
+    .x p{
+        width: clamp(20ch, 50%, 20ch);
+    }
+    .sar{
+        position: relative;
+        top: 12rem;
+        right: 9rem;
+    }
+    .w{
+        position: relative;
+        left: -5.3rem;
+        top: 2.2rem;
+    }
+    .z{
+        position: absolute;
+        left: 18rem;
+    }
+    .ccc img{
+        width:10em ;
+    }
+    .aa{
+        position: absolute;
+        z-index: 1;
+        left: -1rem;
+        top: -20rem;
+        width: 15em;
+    }
+    .cc{
+        position:absolute;
+        z-index: 2;
+        top: -2rem;
+        left: -2rem;
+        width: 15em;
+    }
+    .bb{
+        position: absolute;
+        z-index: -5;
+        left: -8em;
+        top: -23rem;
+        width: 30em;
+        
+        
+    }
+    .third{
+        display: grid;
+        position: relative;
+        left: -10rem;
+    }
+    .forth{
+        display: grid;
+        position: relative;
+        top: -10rem;
+    }
+    .third .rr{
+        position: relative;
+        top: 25rem;
+    }
+    .third .tt{
+        position: relative;
+        top: 30rem;
+        left: 15rem;
+    }
+    .third .ff{
+       display: none;
+    }
+    .forth .fr{
+        position: relative;
+        top: 80rem;
+        left: -1rem;
+    }
+    .az{
+        display: none;
+    }
+    .azz{
+        position: relative;
+        top: 8rem;
+    }
+    .rft{
+        position: relative;
+        top: 180rem;
+        width: 3em;
+        left: 1rem;
+    }
+    footer{
+        position: absolute;
+        top:40rem ;
+    }
+    .forth .frr{
+        position: relative;
+        top: 20rem;
+    }
+    .eg{
+        position: relative;
+        top: 92rem;
+        gap: 13rem;
+        left: 8rem;
+    }
+    .ty{
+        position: relative;
+        top: 190rem;
+        left: -29rem;
+    }
+    .lo{
+        position: relative;
+        top: 195rem;
+        left: -37.5rem;
+    }
+    .op{
+        position: relative;
+        left: -65rem;
+        top: 160rem;
+        display: none;
+    }
+    .opp{
+        position: absolute;
+        top: 148rem;
+        clip-path:inset(00px 679px 310px 0px)
+    }
+    .op img{
+        width: 30em;
+    }
+    .tds{
+        clip-path:inset(00px 1371px 0px 0px)
+    }
+}
